@@ -17,5 +17,6 @@ public class Main {
             celsius = farenheirt;
             System.out.println("la temperatura en celsisu es de "+celsius);
         }
+
     }
 }
