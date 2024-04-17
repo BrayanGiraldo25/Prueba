@@ -2,6 +2,8 @@ package com.example;
 
 public class Main {
     public static void main(String[] args) {
+
+        System.out.println("Hello World");
         {
             int numero = 49;
             int divisor = 3;
